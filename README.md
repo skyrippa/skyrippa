@@ -1,4 +1,3 @@
-<img src="https://c.tenor.com/hRIocoioQMwAAAAC/friends-chandler-bing.gif">
 
 ## Who am I?
 
@@ -20,6 +19,8 @@ class WhoAmI {
     }
 }
  ```
+
+<img src="https://c.tenor.com/hRIocoioQMwAAAAC/friends-chandler-bing.gif" width="300px">
 
 <hr style="border: 1px solid gray"> </hr>
 
