@@ -32,7 +32,6 @@ class WhoAmI {
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org)](https://nodejs.org)
 [![Python](https://img.shields.io/badge/-Python-336791?logo=Python&logoColor=ffff00&link=https://www.python.org/)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-white?logo=Pandas&logoColor=blue&link=https://pandas.pydata.org/)](https://pandas.pydata.org/)
-[![Express](https://img.shields.io/badge/-Express-blue?logo=Express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
 
 <hr style="border: 1px solid gray"> </hr>
 
