@@ -25,13 +25,12 @@ class WhoAmI {
 <hr style="border: 1px solid gray"> </hr>
 
 ### 💻 Stack
-[![PHP](https://img.shields.io/badge/-Laravel-CCC?logo=Laravel&link=https://laravel.com/)](https://laravel.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F8FF12?logo=JavaScript&logoColor=black&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
-[![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-ff0000?logo=RubyOnRails&logoColor=white&link=https://rubyonrails.org/)](https://rubyonrails.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-336791?logo=Mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org)](https://nodejs.org)
+[![PHP](https://img.shields.io/badge/-Laravel-CCC?logo=Laravel&link=https://laravel.com/)](https://laravel.com/)
+[![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-ff0000?logo=RubyOnRails&logoColor=white&link=https://rubyonrails.org/)](https://rubyonrails.org/)
+[![Databases](https://img.shields.io/badge/-MySQL-336791?logo=Mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/-Python-336791?logo=Python&logoColor=ffff00&link=https://www.python.org/)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/-Pandas-white?logo=Pandas&logoColor=blue&link=https://pandas.pydata.org/)](https://pandas.pydata.org/)
 
 <hr style="border: 1px solid gray"> </hr>
 
