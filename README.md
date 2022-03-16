@@ -12,8 +12,7 @@ class WhoAmI {
                 'nature',
                 'music',
                 'gaming',
-                'weeb stuff',
-                'watching things',
+                'watching stuff',
             ]
         }
     }
@@ -29,7 +28,7 @@ class WhoAmI {
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org)](https://nodejs.org)
 [![PHP](https://img.shields.io/badge/-Laravel-CCC?logo=Laravel&link=https://laravel.com/)](https://laravel.com/)
 [![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-ff0000?logo=RubyOnRails&logoColor=white&link=https://rubyonrails.org/)](https://rubyonrails.org/)
-[![Databases](https://img.shields.io/badge/-MySQL-336791?logo=Mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![Mysql](https://img.shields.io/badge/-MySQL-336791?logo=Mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/-Python-336791?logo=Python&logoColor=ffff00&link=https://www.python.org/)](https://www.python.org/)
 
 <hr style="border: 1px solid gray"> </hr>
@@ -38,11 +37,9 @@ class WhoAmI {
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![OS Linux](https://img.shields.io/badge/-OS_Linux-ffa62a?logo=Linux&logoColor=white&link=https://getfedora.org/)](https://getfedora.org/)
 [![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
-[![Pandas](https://img.shields.io/badge/-Postman-orange?logo=Postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
-[![VsCode](https://img.shields.io/badge/-AWS-white?logo=Amazon&Color=pink&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
-[![Pandas](https://img.shields.io/badge/-Jupyter-gray?logo=Jupyter&logoColor=orange&link=https://jupyter.org/)](https://jupyter.org/)
-[![VsCode](https://img.shields.io/badge/-Jetbrains-black?logo=Jetbrains&Color=pink&link=https://www.jetbrains.com/)](https://www.jetbrains.com/)
-[![VsCode](https://img.shields.io/badge/-Scrum-green?logo=Scrum&logoColor=white&link=https://www.scrum.org/)](https://www.scrum.org/)
+[![AWS](https://img.shields.io/badge/-AWS-white?logo=Amazon&Color=pink&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
+[![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter-gray?logo=Jupyter&logoColor=orange&link=https://jupyter.org/)](https://jupyter.org/)
+[![Scrum](https://img.shields.io/badge/-Scrum-green?logo=Scrum&logoColor=white&link=https://www.scrum.org/)](https://www.scrum.org/)
     
 <hr style="border: 1px solid gray"> </hr>
 
