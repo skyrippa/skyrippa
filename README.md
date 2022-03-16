@@ -38,7 +38,7 @@ class WhoAmI {
 ### 🛠️ Tools
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![OS Linux](https://img.shields.io/badge/-OS_Linux-ffa62a?logo=Linux&logoColor=white&link=https://getfedora.org/)](https://getfedora.org/)
-[![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=whitelink=https://www.docker.com/)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
 [![Pandas](https://img.shields.io/badge/-Postman-orange?logo=Postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
 [![VsCode](https://img.shields.io/badge/-AWS-white?logo=Amazon&Color=pink&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
 [![Pandas](https://img.shields.io/badge/-Jupyter-gray?logo=Jupyter&logoColor=orange&link=https://jupyter.org/)](https://jupyter.org/)
