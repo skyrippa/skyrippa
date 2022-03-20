@@ -1,7 +1,3 @@
-<img src="https://c.tenor.com/hRIocoioQMwAAAAC/friends-chandler-bing.gif" width="300px">
-
-<hr style="border: 1px solid gray"> </hr>
-
 ### 💻 Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F8FF12?logo=JavaScript&logoColor=black&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org)](https://nodejs.org)
