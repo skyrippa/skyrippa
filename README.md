@@ -1,24 +1,3 @@
-
-## Who am I?
-
- ```javascript
-class WhoAmI {
-
-    constructor() {
-        this.me = {
-            name: 'Iago Barbosa',
-            from: 'Brazil',
-            hobbies: [
-                'nature',
-                'music',
-                'gaming',
-                'watching stuff',
-            ]
-        }
-    }
-}
- ```
-
 <img src="https://c.tenor.com/hRIocoioQMwAAAAC/friends-chandler-bing.gif" width="300px">
 
 <hr style="border: 1px solid gray"> </hr>
