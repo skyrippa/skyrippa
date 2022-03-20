@@ -20,7 +20,7 @@
 
 ### 🔎 Stalk me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-barbosa-martins-985604177/)](https://www.linkedin.com/in/iago-barbosa-martins-985604177/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/iagobm/)](https://www.linkedin.com/in/iagobm/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/iagobm_/)](https://www.instagram.com/iagobm_/)
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:iagob4599@gmail.com)](mailto:iagob4599@gmail.com)
 ![GitHub](https://img.shields.io/github/followers/skyrippa?label=Seguir&style=social&logo=github)
